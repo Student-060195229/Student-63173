@@ -25,7 +25,7 @@
   </p>
 
   <p>
-    🎓 Indonesian Open University · Information Systems<br>
+    🎓 Faculty of Science and Technology, Open University of Indonesia<br>
     💻 Software Engineering &amp; Artificial Intelligence<br>
     📍 Madiun, East Java, Indonesia
   </p>
