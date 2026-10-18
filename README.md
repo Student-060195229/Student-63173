@@ -25,7 +25,7 @@
   </p>
 
   <p>
-    🎓 Universitas Terbuka · Information Systems<br>
+    🎓 Indonesian Open University · Information Systems<br>
     💻 Software Engineering &amp; Artificial Intelligence<br>
     📍 Madiun, East Java, Indonesia
   </p>
