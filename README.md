@@ -8,8 +8,9 @@
 
   <br><br>
 
+  <!-- Circular Profile Picture -->
   <img
-    src="https://wsrv.nl/?url=github.com%2FStudent-63173.png&amp;w=240&amp;h=240&amp;fit=cover&amp;mask=circle"
+    src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FStudent-63173.png&w=240&h=240&fit=cover&mask=circle"
     alt="Mu'iz Hilmi's profile picture"
     width="120"
     height="120"
@@ -29,7 +30,6 @@
     💻 Software Engineering &amp; Artificial Intelligence<br>
     📍 Madiun, East Java, Indonesia
   </p>
-
 
 </div>
 
@@ -59,54 +59,27 @@ I'm exploring how these fields work together to turn ideas into useful, reliable
 
 ### Languages
 
-<p>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="38" height="38" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="38" height="38" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="38" height="38" />
-</p>
+<div align="left">
+
+<img
+  src="https://skillicons.dev/icons?i=javascript,typescript,python"
+  alt="JavaScript, TypeScript, and Python"
+  height="45"
+/>
+
+</div>
 
 ### Tools &amp; Frameworks
 
-<p>
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="38" height="38" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="38" height="38" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" width="38" height="38" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" width="38" height="38" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase" width="38" height="38" />
-</p>
+<div align="left">
 
----
+<img
+  src="https://skillicons.dev/icons?i=git,github,nextjs,nodejs,supabase"
+  alt="Git, GitHub, Next.js, Node.js, and Supabase"
+  height="45"
+/>
 
-## 🚀 Project Focus
-
-I'm interested in building technology that connects software, AI, and real-world needs.
-
-### 🤖 Gizen Labs
-
-**AI · Software · Product Development**
-
-Exploring practical applications of AI and software to improve productivity and help people and businesses solve problems.
-
-### 🌱 Smart Farming
-
-**Agriculture · Software · Data**
-
-Exploring how digital technology, data, and AI can support agricultural activities and practical farming workflows.
-
-<p align="center">
-  <a href="https://github.com/Student-63173?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-238636?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore my GitHub repositories"
-    />
-  </a>
-</p>
+</div>
 
 ---
 
@@ -117,7 +90,7 @@ Exploring how digital technology, data, and AI can support agricultural activiti
   <img
     src="https://github-readme-stats.vercel.app/api?username=Student-63173&show_icons=true&hide_border=true&bg_color=0b1410&title_color=3fb950&icon_color=3fb950&text_color=f0fdf4"
     alt="Mu'iz Hilmi's GitHub statistics"
-    width="49%"
+    width="48%"
   />
 
   <img
@@ -170,8 +143,15 @@ I want to keep building my technical skills, exploring meaningful problems, and 
   <a href="https://www.linkedin.com/in/muiz-hilmi">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect with me on LinkedIn"
+      alt="Connect with Mu'iz Hilmi on LinkedIn"
     />
+  </a>
+
+  <br><br>
+
+  <strong>LinkedIn</strong><br>
+  <a href="https://www.linkedin.com/in/muiz-hilmi">
+    linkedin.com/in/muiz-hilmi
   </a>
 
   <br><br>
@@ -180,7 +160,11 @@ I want to keep building my technical skills, exploring meaningful problems, and 
     Thanks for visiting my profile. Let's keep learning and building.
   </sub>
 
-  <br><br>
+</div>
+
+<br>
+
+<div align="center">
 
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0b1410%2C45%3A166534%2C100%3A3fb950&height=100&section=footer&animation=fadeIn"
@@ -189,18 +173,3 @@ I want to keep building my technical skills, exploring meaningful problems, and 
   />
 
 </div>
-
-
-**Student-63173/Student-63173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
