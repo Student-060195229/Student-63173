@@ -30,21 +30,6 @@
     📍 Madiun, East Java, Indonesia
   </p>
 
-  <br>
-
-  <a href="https://github.com/Student-63173?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/Student-63173?style=flat&logo=github&label=Followers&color=3fb950"
-      alt="GitHub Followers"
-    />
-  </a>
-
-  <a href="https://komarev.com/ghpvc/?username=Student-63173">
-    <img
-      src="https://komarev.com/ghpvc/?username=Student-63173&style=flat&label=Profile%20Views&color=3fb950"
-      alt="Profile Views"
-    />
-  </a>
 
 </div>
 
