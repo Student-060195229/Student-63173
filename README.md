@@ -10,11 +10,11 @@
 
   <!-- Circular Profile Picture -->
   <img
-    src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FStudent-63173.png&w=240&h=240&fit=cover&mask=circle"
-    alt="Mu'iz Hilmi's profile picture"
-    width="120"
-    height="120"
-  />
+  src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2FStudent-63173.png&w=240&h=240&fit=cover&mask=circle&v=2"
+  alt="Mu'iz Hilmi's profile picture"
+  width="120"
+  height="120"
+/>
 
   <h1>Hi, I'm Mu'iz Hilmi 👋</h1>
 
